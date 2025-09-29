@@ -1,4 +1,15 @@
-## Hi there 👋
+# Pablo Illescas Ruiz
+![https://ibb.co/TBs5ttgF](https://i.ibb.co/TBs5ttgF/cb3b0363a3c830f2754477d8f8f5c0658f365486.jpg)
+## Sobre mi
+Soy un *Estudiante* de **EIG Málaga**, cursando la FP superior en Desarrollo de Aplicaciones Web 25/26.
+Me gusta la informática, sobre todo la programación y los Videojuegos, he creado varios y se pueden ver en mi [Sitio web de itch.io](https://pabloir.itch.io/).
+
+## Lenguajes de programación conocidos
+| Lenguaje  | Conocimientos             |
+|:---------:|:--------------------------|
+| C#        | Programador en Unity      |
+| Java      | Nociones básicas          |
+| C         | Nociones básicas          |
 
 <!--
 **PIRuizEIG/PIRuizEIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
