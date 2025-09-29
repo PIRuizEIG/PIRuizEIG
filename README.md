@@ -1,5 +1,5 @@
 # Pablo Illescas Ruiz
-![](avatar.png)
+![https://github.com/PIRuizEIG](avatar.png)
 ## Sobre mi
 Soy un *Estudiante* de **EIG Málaga**, cursando la FP superior en Desarrollo de Aplicaciones Web 25/26.
 Me gusta la informática, sobre todo la programación y los Videojuegos, he creado varios y se pueden ver en mi [Sitio web de itch.io](https://pabloir.itch.io/).
